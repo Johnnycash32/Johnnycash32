@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Johnnycash32
 - 👀 I’m interested in changing the world 
-- 🌱 I’m currently learning python and JavaScript and more.
+- 🌱 I’m currently a python, java & UI(react) and JavaScript programmer.
 - iCode, iDesign & iDon't plan on backing off till iDie🙄
 - 💞️ I’m looking to collaborate on evolutionary projects 
 - 📫 you know where to find me 😏 johneludini@gmail.com
